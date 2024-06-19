@@ -12,7 +12,8 @@ This is a classification problem that predicts whether a person has a stroke or 
 * [Contact](#contact)
 
 ## General Info
-The aim is to develop a comprehensive predictive model for recognizing stroke events. It will provide insights and give a predictive model to help identify individuals at risk. This model will give healthcare professionals practical insights to enable early intervention and prevention. This research aims to improve understanding of the factors that contribute to stroke risk, thus improving healthcare provisions for the potential patients.  
+The aim is to develop a comprehensive predictive model for recognizing stroke events. It will provide insights and give a predictive model to help identify individuals at risk. This model will give healthcare professionals practical insights to enable early intervention and prevention. This research aims to improve understanding of the factors that contribute to stroke risk, thus improving healthcare provisions for the potential patients. The entire summary of the project can be found in the [project report](https://github.com/osheengupta/Heart-stroke-prediction-using-Logistic-Regression-and-Random-Forrest/blob/8963809e5d5936d2d78da31bead7ef5cd8558a93/Stroke_prediction.pdf).
+
 
 ## Features
 | Variables | Description |
