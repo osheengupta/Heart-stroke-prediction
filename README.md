@@ -4,10 +4,10 @@ This is a classification problem that predicts whether a person has a stroke or 
 
 ## Table of Contents
 * [General info](#general-info)
+* [Features](#features)
 * [Screenshots](#screenshots)
 * [Process](#process)
 * [Code Examples](#code-examples)
-* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
