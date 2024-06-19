@@ -1,11 +1,10 @@
 # Heart stroke prediction using Logistic Regression and Random Forrest
 
-This project's main goal is to create a predictive model that reliably identifies people who are at risk of stroke based on their health characteristics. This is a classification problem that predicts whether a person has a stroke or not with a good amount of accuracy. This project was done as part of Data Mining class at the California State University East Bay.
+This is a classification problem that predicts whether a person has a stroke or not with a good amount of accuracy. This project's main goal is to create a predictive model that reliably identifies people who are at risk of stroke based on their health characteristics. This project was done as part of Data Mining class at the California State University East Bay.
 
 ## Table of Contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Technologies and Tools](#technologies-and-tools)
 * [Process](#process)
 * [Code Examples](#code-examples)
 * [Features](#features)
@@ -13,7 +12,7 @@ This project's main goal is to create a predictive model that reliably identifie
 * [Contact](#contact)
 
 ## General Info
-Our aim is to develop a comprehensive predictive model for recognizing stroke events. It will provide insights and give a predictive model to help identify individuals at risk. This model will give healthcare professionals practical insights to enable early intervention and prevention. Our research aims to improve understanding of the factors that contribute to stroke risk, thus improving patient outcomes and healthcare delivery of a stroke. 
+The aim is to develop a comprehensive predictive model for recognizing stroke events. It will provide insights and give a predictive model to help identify individuals at risk. This model will give healthcare professionals practical insights to enable early intervention and prevention. This research aims to improve understanding of the factors that contribute to stroke risk, thus improving healthcare provisions for the potential patients.  
 
 ## Features
 | Variables | Description |
@@ -33,8 +32,14 @@ Our aim is to develop a comprehensive predictive model for recognizing stroke ev
 
 
 ## Screenshots
+### Logistic Regression Model
+![LRM](./img/Picture4.png)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Gains chart & lift chart
+![Charts](./img/Picture2.png)
+
+### Decision Tree
+![Decision Tree](./img/Picture1.png)
 
 
 ## Process
@@ -107,3 +112,6 @@ print('Number of Nodes in Tree in Random Forest:', n_nodes)
 Project is: _finished_ and was done as a part of Data Mining course at California State University East Bay.
 
 ## Contact
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on <a href="osheengupta1994@gmail.com" target="_blank">email</a> or
+<a href="www.linkedin.com/in/osheengupta" target="_blank">LinkedIn</a>
