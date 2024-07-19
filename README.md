@@ -113,6 +113,8 @@ print('Number of Nodes in Tree in Random Forest:', n_nodes)
 Project is: _finished_ and was done as a part of Data Mining course at California State University East Bay.
 
 ## Contact
+Created by me and my awesome teammates Divya Velingdala, Komal Nayak, Srimukhi & Sanjana Anapureddy. 
+
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on <a href="osheengupta1994@gmail.com" target="_blank">email</a> or
 <a href="www.linkedin.com/in/osheengupta" target="_blank">LinkedIn</a>
