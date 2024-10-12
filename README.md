@@ -1,4 +1,4 @@
-# Heart stroke prediction
+# Heart stroke prediction using Logistic Regression and Random Forrest
 
 This is a classification problem that predicts whether a person has a stroke or not with a good amount of accuracy. This project's main goal is to create a predictive model that reliably identifies people who are at risk of stroke based on their health characteristics. This project was done as part of Data Mining class at the California State University East Bay.
 
